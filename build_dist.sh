@@ -1,6 +1,6 @@
 #!/bin/bash
 # bash strict mode
-set -euo pipefail
+set -eu pipefail
 IFS=$'\n\t'
 
 err() {
