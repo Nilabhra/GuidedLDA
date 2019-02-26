@@ -1,8 +1,11 @@
 CHANGES
 =======
 
+<<<<<<< HEAD
 * Fixed minor bug in build\_dist.sh
 * Updated setup.cfg to allow usage in python 3.7
+=======
+>>>>>>> a5d7bf829cce2ed68eacd926c60264afbef18dc3
 * fix broken link to seeded LDA paper
 * improved docs for purging addtional matrices
 * added link to medium blog push'
